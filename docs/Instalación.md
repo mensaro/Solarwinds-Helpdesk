@@ -9,7 +9,7 @@ https://www.solarwinds.com/es/free-tools/free-help-desk-software
 - Le damos a bajar la herramienta pero antes tendremos rellenar los datos
 ![rellenar_daros](https://user-images.githubusercontent.com/104897417/172588755-dfce05e5-cfa4-46f5-971d-a3b302ec19f4.png)
 
-- Después de que se haya descargado vamos a descargarlo
+- Después de que se haya descargado vamos a descargarlo le damos next a todo
  ![image](https://user-images.githubusercontent.com/104897417/172590053-92b7332d-4446-4a88-a699-c7508e7786d0.png)
 
 
