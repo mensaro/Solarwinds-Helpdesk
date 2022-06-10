@@ -2,7 +2,7 @@
 
 Una vez instalado Solarwinds Helpdesk, debemos abrir el programa como administrador y se nos abre una pestaña en el navegador que tengamos predeterminado.
 
-![Imagen1](imagen1.png)
+![Imagen1](images/imagen1.png)
 
 1. Debemos seleccionar el tipo de **base de datos** que queremos utilizar
 
